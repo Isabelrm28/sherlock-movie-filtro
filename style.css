@@ -1,9 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Bitter:wght@600&family=Nunito:ital,wght@0,500;1,200&family=Open+Sans:wght@500&display=swap');
+@import url('https://fonts.cdnfonts.com/css/sherlock-holmes');
+
+
 body{
     padding: 25px;
   }
   .title {
       color: #5C6AC4;
   }
+
+.title1 {
+    background-color: #6c9398;
+    color: #0f212b;
+    padding: 40px;
+   
+}
+
+.title1 h2{
+    font-family: 'WATSON', sans-serif;
+   
+}
 
 
   /* Estilos generales de las tarjetas */
@@ -12,10 +28,16 @@ body{
     transition: 0.3s;
     border-radius: 5px;
     background-color: #6c9398;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 500px;
 }
 
 .card h4 {
-    color: aliceblue;
+    color:#0f212b;
+    font-family: 'SHERLOCK HOLMES', sans-serif;
+    font-family: 'WATSON', sans-seri
 }
 
 .card:hover {
@@ -28,6 +50,5 @@ body{
     height: 270px;
     object-fit: cover;
     border-radius: 5px 5px 0 0;
-    padding-left: 130px;
-
+    display: flex;
 }
