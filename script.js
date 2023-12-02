@@ -4,7 +4,7 @@ let galleryarray = [
     {
         id: 1,
         name: "Sherlock Holmes",
-        src: "https://res.cloudinary.com/dm5tgfpr3/image/upload/v1701477765/ccf34b1980620dd296e167a2780f1b33_avxteg.jpg",
+        src: "https://res.cloudinary.com/dm5tgfpr3/image/upload/v1701478666/833a3c58750420ca4d891a256c280d8d_bg9qyr.jpg",
         desc: "Robert Downey Jr. as Sherlock Holmes, a bohemian scientist and eccentric detective-for-hire who becomes a wanted fugitive in his hunt for Lord Blackwood while constantly being followed by the presence of Professor Moriarty."
     },
     {
